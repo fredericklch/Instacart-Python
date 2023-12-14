@@ -10,7 +10,7 @@ Stakeholders are interested in the following:
 
 - variety of customers in their database
 - purchasing behaviours of customers
-- identify any customer profiles for targeted marketing startegy
+- identify any customer profiles for targeted marketing strategy
 
 # Data
 
