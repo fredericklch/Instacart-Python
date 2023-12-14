@@ -20,7 +20,7 @@ The dataset comprises of information on the following parameters:
 - departments
 - orders
 - orders_products_prior
-- prodcuts
+- products
 - states_region
 
 The Instacart Online Grocery Shopping Dataset 2017”, Accessed from (www.instacart.com/datasets/grocery-shopping-2017) via [Kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
